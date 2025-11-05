@@ -1,5 +1,3 @@
-# learning_python.py
-
 # Read the entire file
 filename = 'learning_python.txt'
 
